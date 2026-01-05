@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|c:\\users\\elvira\\desktop\\final\\final_porject\\project1\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|solutionrelative:project1\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\project1\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|solutionrelative:project1\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\project1\\stockreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8E7BE4-1CB3-458E-8DDB-861E44FB51B9}|Project1\\Project1.csproj|solutionrelative:project1\\stockreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Main.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\Form_Main.cs",
+              "RelativeDocumentMoniker": "Project1\\Form_Main.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\Form_Main.cs",
+              "RelativeToolTip": "Project1\\Form_Main.cs",
+              "ViewState": "AgIAAG0BAABAMzMzMzMwwFwBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:35:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\Form_Main.cs",
+              "RelativeDocumentMoniker": "Project1\\Form_Main.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\Form_Main.cs [Design]",
+              "RelativeToolTip": "Project1\\Form_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:35:40.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockReader.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\StockReader.cs",
+              "RelativeDocumentMoniker": "Project1\\StockReader.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Porject\\Project1\\StockReader.cs",
+              "RelativeToolTip": "Project1\\StockReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:35:23.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

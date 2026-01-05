@@ -1,0 +1,10 @@
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\bin\Debug\Project1.exe.config
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\bin\Debug\Project1.exe
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\bin\Debug\Project1.pdb
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.Form_Main.resources
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.exe
+C:\Users\Elvira\Desktop\Final\Final_Porject\Project1\obj\Debug\Project1.pdb

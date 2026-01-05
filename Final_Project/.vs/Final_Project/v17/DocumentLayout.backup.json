@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|c:\\users\\elvira\\desktop\\final\\final_project\\project3\\asmartcandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\asmartcandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_marubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_marubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_invertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_invertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_harami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_harami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_gravestonedoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_gravestonedoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_dragonflydoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_dragonflydoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishmarubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishmarubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishinvertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishinvertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishharami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishharami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishengulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishengulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bullishdoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bullishdoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishmarubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishmarubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishinvertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishinvertedhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishharami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishharami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishhammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishengulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishengulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer_bearishdoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer_bearishdoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\project3\\recognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65923BBD-CE8C-40E6-B599-992C785A514F}|Project3\\Project3.csproj|solutionrelative:project3\\recognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aSmartCandlestick.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\aSmartCandlestick.cs",
+              "RelativeDocumentMoniker": "Project3\\aSmartCandlestick.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\aSmartCandlestick.cs",
+              "RelativeToolTip": "Project3\\aSmartCandlestick.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:06:14.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecognizerController.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\RecognizerController.cs",
+              "RelativeDocumentMoniker": "Project3\\RecognizerController.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\RecognizerController.cs",
+              "RelativeToolTip": "Project3\\RecognizerController.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAkwCYBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recognizer_Marubozu.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Marubozu.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_Marubozu.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Marubozu.cs",
+              "RelativeToolTip": "Project3\\Recognizer_Marubozu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recognizer_InvertedHammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_InvertedHammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_InvertedHammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_InvertedHammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_InvertedHammer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:41.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recognizer_Harami.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Harami.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_Harami.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Harami.cs",
+              "RelativeToolTip": "Project3\\Recognizer_Harami.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recognizer_Hammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Hammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_Hammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Hammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_Hammer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recognizer_GravestoneDoji.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_GravestoneDoji.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_GravestoneDoji.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_GravestoneDoji.cs",
+              "RelativeToolTip": "Project3\\Recognizer_GravestoneDoji.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recognizer_Engulfing.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Engulfing.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_Engulfing.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Engulfing.cs",
+              "RelativeToolTip": "Project3\\Recognizer_Engulfing.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:29.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recognizer_DragonflyDoji.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_DragonflyDoji.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_DragonflyDoji.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_DragonflyDoji.cs",
+              "RelativeToolTip": "Project3\\Recognizer_DragonflyDoji.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recognizer_Doji.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Doji.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_Doji.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_Doji.cs",
+              "RelativeToolTip": "Project3\\Recognizer_Doji.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recognizer_BullishMarubozu.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishMarubozu.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishMarubozu.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishMarubozu.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishMarubozu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recognizer_BullishInvertedHammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishInvertedHammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishInvertedHammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishInvertedHammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishInvertedHammer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recognizer_BullishHarami.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishHarami.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishHarami.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishHarami.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishHarami.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:17.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recognizer_BullishHammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishHammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishHammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishHammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishHammer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:13.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recognizer_BullishEngulfing.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishEngulfing.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishEngulfing.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishEngulfing.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishEngulfing.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:07.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Recognizer_BullishDoji.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishDoji.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BullishDoji.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BullishDoji.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BullishDoji.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recognizer_BearishMarubozu.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishMarubozu.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishMarubozu.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishMarubozu.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishMarubozu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:53:01.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Recognizer_BearishInvertedHammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishInvertedHammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishInvertedHammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishInvertedHammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishInvertedHammer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:42.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recognizer_BearishHarami.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishHarami.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishHarami.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishHarami.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishHarami.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:31.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Recognizer_BearishHammer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishHammer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishHammer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishHammer.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishHammer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Recognizer_BearishEngulfing.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishEngulfing.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishEngulfing.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishEngulfing.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishEngulfing.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Recognizer_BearishDoji.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishDoji.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer_BearishDoji.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer_BearishDoji.cs",
+              "RelativeToolTip": "Project3\\Recognizer_BearishDoji.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Recognizer.cs",
+              "DocumentMoniker": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer.cs",
+              "RelativeDocumentMoniker": "Project3\\Recognizer.cs",
+              "ToolTip": "C:\\Users\\Elvira\\Desktop\\Final\\Final_Project\\Project3\\Recognizer.cs",
+              "RelativeToolTip": "Project3\\Recognizer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:50:33.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
