@@ -1,8 +1,8 @@
-# 📈 Stock Analysis Application
+# Stock Analysis Application
 
 A comprehensive Windows Forms application for loading, displaying, and analyzing stock market data with candlestick charting, pattern recognition, and real-time ticker simulation.
 
-## 🎯 Overview
+## Overview
 
 This application was developed as a semester-long project, evolving through three phases to create a full-featured stock analysis tool. It demonstrates object-oriented programming principles, data binding, inheritance, abstract classes, and design patterns in C#.
 
@@ -17,7 +17,7 @@ This application was developed as a semester-long project, evolving through thre
 
 ---
 
-## 📸 Screenshots
+## Demos
 
 ### Daily Chart View (ABBV)
 <img width="1440" height="900" alt="Screenshot 2026-01-17 at 21 27 27" src="https://github.com/user-attachments/assets/f723fca0-b9de-4394-86f3-1a2d0925346f" />
@@ -29,7 +29,7 @@ This application was developed as a semester-long project, evolving through thre
 
 ---
 
-## 🖼️ Features
+## Features
 
 ### Candlestick Charting
 - OHLC (Open, High, Low, Close) data displayed in standard candlestick format
@@ -65,7 +65,7 @@ Detected patterns are highlighted using chart annotations (rectangles, arrows, o
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Class Hierarchy
 
@@ -115,7 +115,7 @@ This pattern applies to: `readCandlesticksFromFile`, `filterCandlesticks`, `norm
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 StockAnalysis/
@@ -140,7 +140,7 @@ StockAnalysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -184,7 +184,7 @@ Date,Open,High,Low,Close,Adj Close,Volume
 
 ---
 
-## 📖 Usage
+## Usage
 
 1. **Load Stock Data**
    - Click the Load button to open the file dialog
@@ -213,23 +213,7 @@ Date,Open,High,Low,Close,Adj Close,Volume
 
 ---
 
-## 🎨 Naming Conventions
-
-All controls follow the `controlType_descriptiveName` convention:
-
-| Control Type | Examples from Application |
-|--------------|---------------------------|
-| Button | `button_loadStockFiles`, `button_refreshAll`, `button_start`, `button_stop` |
-| DateTimePicker | `dateTimePicker_startDate`, `dateTimePicker_endDate` |
-| ComboBox | `comboBox_selectPattern` |
-| Chart | `chart_stockChart` |
-| TrackBar/Slider | `trackBar_animationSpeed` |
-| TextBox | `textBox_speedValue` |
-| Label | `label_startDate`, `label_endDate`, `label_animationSpeed` |
-
----
-
-## 🔧 Technical Details
+## Technical Details
 
 ### Candlestick Anatomy Calculations
 
@@ -257,7 +241,7 @@ chartArea.AxisY.Minimum = minLow - padding;
 
 ---
 
-## 📚 Resources & References
+## Resources & References
 
 - [C# Syntax Reference (W3Schools)](https://www.w3schools.com/cs/)
 - [Stock Chart Tutorial (FoxLearn)](https://www.youtube.com/watch?v=example)
@@ -266,13 +250,13 @@ chartArea.AxisY.Minimum = minLow - padding;
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for educational purposes as part of a university course.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Course instructor for project specifications and guidance
 - Yahoo Finance for historical stock data
